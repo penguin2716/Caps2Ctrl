@@ -1,0 +1,2 @@
+# Caps2Ctrl
+CapsLockキーをControlキーにするためのレジストリを設定します。InnoSetupでインストーラを吐き出して使います。アンインストールもかんたんです。
